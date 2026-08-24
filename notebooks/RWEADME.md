@@ -1,11 +1,19 @@
-Exported Databricks notebooks:
+This folder contains all Databricks notebooks used in the Databricks Data QA Learning Project.
+Each notebook demonstrates a specific part of the data ingestion, transformation, validation, or pipeline workflow.
 
-ingestion
+These notebooks form the core of the hands‑on learning in this project.
 
-cleaning
+Purpose of This Folder
+The notebooks/ directory is used to store:
 
-transformations
+  ingestion notebooks
 
-validations
+  transformation notebooks
 
-These show your hands‑on work.
+  validation notebooks
+
+  pipeline demonstrations
+
+  exploratory analysis notebooks
+
+Keeping notebooks in a dedicated folder makes the project organized and easy to navigate.
