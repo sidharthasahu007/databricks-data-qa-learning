@@ -1,8 +1,6 @@
 **1. Introduction:**
    
-This repository captures my structured learning in Databricks, Delta Lake, Python, SQL, and PySpark.
-It includes datasets, notebooks, validation scripts, and pipeline examples that simulate real enterprise data engineering and QA scenarios.
-The goal is to build practical, hands‑on skills that align with modern data QA and FDE roles.
+This repository captures my structured learning in Databricks, Delta Lake, Python, SQL, and PySpark. It includes datasets, notebooks, validation scripts, and pipeline examples that simulate real enterprise data engineering and QA scenarios. The goal is to build practical, hands‑on skills that align with modern data QA and FDE roles.
 
 **2. Environment Setup:**
    
