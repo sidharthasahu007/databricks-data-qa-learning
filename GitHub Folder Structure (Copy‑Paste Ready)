@@ -1,1 +1,38 @@
 
+databricks-data-qa-learning/
+│
+├── README.md
+│
+├── datasets/
+│   ├── retail_sales_sample.csv
+│   ├── customers_sample.csv
+│   └── product_catalog_sample.csv
+│
+├── notebooks/
+│   ├── bronze_ingestion.py
+│   ├── silver_cleaning.py
+│   ├── gold_business_ready.py
+│   └── validation_notebook.py
+│
+├── python-scripts/
+│   ├── validate_row_count.py
+│   ├── validate_schema.py
+│   ├── validate_duplicates.py
+│   └── reconcile_tables.py
+│
+├── sql/
+│   ├── row_count.sql
+│   ├── null_checks.sql
+│   ├── duplicates.sql
+│   └── recon.sql
+│
+├── pyspark/
+│   ├── null_checks.py
+│   ├── duplicate_checks.py
+│   └── referential_integrity.py
+│
+└── docs/
+    ├── architecture.md
+    ├── bronze_silver_gold.md
+    ├── data_quality_rules.md
+    └── learning_journey.md
