@@ -5,14 +5,14 @@ These scripts demonstrate how Python can orchestrate SQL queries, PySpark operat
 
 The python-scripts/ directory is designed to store:
 
-  reusable validation functions
+    reusable validation functions
 
-  automated QA checks
+    automated QA checks
 
-  reconciliation logic
+    reconciliation logic
 
-  schema validation utilities
+    schema validation utilities
 
-  helper modules used across notebooks
+    helper modules used across notebooks
 
 These scripts help separate validation logic from notebooks, making the project cleaner, modular, and easier to maintain.
