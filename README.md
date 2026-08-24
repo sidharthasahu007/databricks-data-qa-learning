@@ -156,21 +156,3 @@ Planned enhancements include:
 
 These steps will expand the project into a full QA automation framework.
 
-**Repository Structure**	
-
-databricks-data-qa-learning/
-│
-├── README.md
-│
-├── datasets/
-│
-├── notebooks/
-│
-├── python-scripts/
-│
-├── sql/
-│
-├── pyspark/
-│
-└── docs/
-
