@@ -3,17 +3,18 @@ Each notebook demonstrates a specific part of the data ingestion, transformation
 
 These notebooks form the core of the hands‑on learning in this project.
 
-Purpose of This Folder
+**Purpose of This Folder**
+
 The notebooks/ directory is used to store:
 
-  ingestion notebooks
+    ingestion notebooks
 
-  transformation notebooks
+    Transformation notebooks
 
-  validation notebooks
+    validation notebooks
 
-  pipeline demonstrations
+    pipeline demonstrations
 
-  exploratory analysis notebooks
+    exploratory analysis notebooks
 
 Keeping notebooks in a dedicated folder makes the project organized and easy to navigate.
