@@ -1,18 +1,20 @@
-This folder contains standalone Python scripts used for data validation, reconciliation, and automation within the Databricks Data QA Learning Project.
-These scripts demonstrate how Python can orchestrate SQL queries, PySpark operations, and reusable validation logic in a scalable, test‑friendly manner.
+This folder contains PySpark-based validation and transformation scripts used in the Databricks Data QA Learning Project.
+These scripts demonstrate how PySpark’s distributed DataFrame API can be used to perform scalable data quality checks and transformations across large datasets.
+
+PySpark is essential for enterprise-grade QA because it allows validation logic to run efficiently on big data.
 
 **Purpose of This Folder**
 
-The python-scripts/ directory is designed to store:
+The pyspark/ directory is used to store:
 
-    reusable validation functions
+    PySpark validation scripts
 
-    automated QA checks
+    Transformation utilities
 
-    reconciliation logic
+    Referential integrity checks
 
-    schema validation utilities
+    schema and data profiling logic
 
-    helper modules used across notebooks
+    Reusable DataFrame-based QA functions
 
-These scripts help separate validation logic from notebooks, making the project cleaner, modular, and easier to maintain.
+These scripts complement your SQL and Python validation logic and show your ability to work with Spark at scale.
