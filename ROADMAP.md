@@ -3,7 +3,7 @@
   Goal: Establish the base environment and repository structure.
 
     Create GitHub repository
-    
+  
     Add folder structure (datasets/, notebooks/, python-scripts/, sql/, pyspark/, docs/)
     
     Upload sample datasets
