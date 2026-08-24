@@ -1,7 +1,9 @@
-architecture
+Extended documentation:
 
-pipeline design
+  architecture
 
-data quality rules
+  pipeline design
 
-your learning journey
+  data quality rules
+
+  your learning journey
